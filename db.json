@@ -1,0 +1,6 @@
+[
+  {"question": "What is your marital status?", "answers": {"Single": 1, "Married": 2}, "id": 0},
+  {"question": "Are you planning on getting married next year?", "answers": {"Yes": -1, "No": -1}, "id": 1},
+  {"question": "How long have you been married?", "answers": {"Less than a year": -1, "More than a year": 3}, "id": 2},
+  {"question": "Have you celebrated your one year anniversary?", "answers": {"Yes": -1, "No": -1}, "id": 3}
+]
